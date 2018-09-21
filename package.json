@@ -6,13 +6,10 @@
     "babel-plugin-inferno": "5.1.0",
     "@babel/plugin-syntax-jsx": "7.0.0",
     "babel-plugin-rewire-exports": "~1.0.0-alpha",
-    "rollup": "0.60.7",
-    "rollup-plugin-babel": "^4.0.3",
-    "rollup-plugin-node-resolve": "3.3.0",
-    "rollup-plugin-uglify": "4.0.0",
-    "xxhash": "0.2.4"
+    "rollup": "0.66.2",
+    "rollup-plugin-babel": "^4.0.3"
   },
   "scripts": {
-	"start": "rollup --config --watch"
+    "start": "rollup --config --watch"
   }
 }
